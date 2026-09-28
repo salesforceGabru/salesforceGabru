@@ -100,19 +100,6 @@ A custom **Aura-based Lightning Page template** for the Salesforce Service Conso
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasgupta07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasgupta07&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasgupta07&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Lovely Professional University** — B.Sc. Engineering, Computer Science & Engineering (GPA: 7.84/10.00)
@@ -123,7 +110,7 @@ Relevant coursework: Software Design · Core Programming · Data Science · Embe
 ## 🌐 Languages & Interests
 
 **Languages:** English · Hindi · Punjabi
-**Interests:** 📈 Stock Market · 🏏 Cricket · 📰 Tech News
+**Interests:** 📈 Stock Market · 🏏 Cricket · 📰 Tech News · 📰 Hookah Lover
 
 ---
 
