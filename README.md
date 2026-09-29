@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Salesforce Engineer** who turns business requirements into scalable, production-grade solutions on the Salesforce Platform. Over the past few years I've shipped Experience Cloud portals, Service & Sales Cloud implementations, and custom Aura/LWC components for global enterprises — going from requirement to design to code to deployment, end‑to‑end.
+I'm a **Sr. Salesforce Engineer** who turns business requirements into scalable, production-grade solutions on the Salesforce Platform. Over the past few years I've shipped Experience Cloud portals, Service & Sales Cloud implementations, and custom Aura/LWC components for global enterprises — going from requirement to design to code to deployment, end‑to‑end.
 
 - 🔭 **Currently building:** Custom Salesforce Experience Cloud & Service Console solutions at **Grazitti Interactive**
 - 🌱 **Deep focus:** Apex, Triggers, Aura, LWC, Salesforce Automation & Integrations
